@@ -138,7 +138,7 @@ p {
 }
 
 .navbar__menu__item:hover {
-    background-color: var(--color-dark-pink);
+    background-color: var(--color-blue);
     border-radius: 4px;
 }
 
